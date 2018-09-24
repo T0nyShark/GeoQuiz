@@ -1,6 +1,6 @@
 # GeoQuiz
 
-This is the app called GeoQuiz which i made when studying with BigNerdRanchGuide.
-It"s a simple quiz-app with a few questions in it.
-GeoQuiz demonstrates full Android apps development process, usages of basic tools and concepts. 
+This is the app called GeoQuiz which i made while studying BigNerdRanch.
+It`s a simple quiz-app with a few questions in it.
+GeoQuiz demonstrates full Android application development process, usages of basic tools and concepts. 
 
